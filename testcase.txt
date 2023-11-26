@@ -1,0 +1,15 @@
+Male	67	0	1	Yes	Private		Urban	228.69	36.6		formerly smoked	1
+Male	80	0	1	Yes	Private		Rural	105.92	32.5		never smoked	1
+Female	79	1	0	Yes	Self-employed	Rural	174.12	24		smokes		1
+Male	63	0	1	Yes	Self-employed	Urban	116.69	34.5		formerly smoked	1
+Male	75	1	0	Yes	Private		Urban	221.29	25.8		smokes		1
+Female	82	1	0	Yes	Self-employed	Urban	196.92	22.2		smokes		1
+
+Female	49	0	0	Yes	Private		Rural	96.85	35.5		never smoked	0
+Female	74	0	0	Yes	Govt_job	Urban	251.99	25.5		never smoked	0
+Male	62	0	0	Yes	Private		Rural	115.13	30		smokes		0
+Male	16	0	0	No	children	Urban	102.3	21.9		Unknown		0
+Male	62	0	0	Yes	Self-employed	Urban	78.99	45.5		never smoked	0
+
+
+

@@ -1,0 +1,40 @@
+1. Importing the packages
+2. Exploring the dataset - stroke data
+3. visualization using seaborn & Plotly
+4. Univariate and BiVariate Analysis 
+5. SMOTE Oversampling
+6. Data processing 
+    - Hybird Deep Learning
+	- stacking the values
+	- Converting the stack value into tensor
+	- stacking the continuous columns & converting to tensor
+	- converting target variable to tensor and flattening since CrossEntropyLoss expects a 1-d tensor
+    - Deep Neural Network and CNN + LSTM
+	- Data Normalizing
+	- Data Transform
+    - Machine Learning
+7. Label Encoding
+8. Feature Selection and Splitting the Data into train and test
+6. building the model
+	- Hybird Deep TL
+	- DNN
+	- CNN + LSTM
+	- SVM
+	- DT
+    	- RF
+	- Voting Classifier
+	
+7. training the model
+8. building the model with Voting Classifier since it gives better score and less MSE comparing with Other Models 
+9. Flask Framework with Sqlite for signup and signin
+10. importing the packages
+11. User gives input as Feature Values 
+12. the given input is preprocessed for prediction
+13. trained model is used for prediction
+14. final outcome is displayed through frontend
+
+Note:
+
+Extension -Voting Classifier, CNN+LSTM model is build as Extension for feature values
+and Voting Classifier is used for prediction since we it gives better score value comparing with other Models
+
